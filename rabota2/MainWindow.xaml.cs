@@ -99,8 +99,10 @@ namespace rabota2
             var window_ = new Vidi();
             window_.ShowDialog();
         }
-
-
+        if (a[i] == max) kol++;
+            Console.Write("Число максимальных элементов: {0} ", +kol);
+            Console.Wtite("Число элементов");
     }
+    
 }
 
