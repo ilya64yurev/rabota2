@@ -1,0 +1,44 @@
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\rabota2.exe.config
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\rabota2.exe
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\rabota2.pdb
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\EntityFramework.dll
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\EntityFramework.xml
+C:\Users\maxwo\Desktop\rabota2\rabota2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.csprojAssemblyReference.cache
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\MainWindow.g.cs
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\App.g.cs
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2_Content.g.cs
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2_MarkupCompile.cache
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2_MarkupCompile.lref
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\MainWindow.baml
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.g.resources
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.Properties.Resources.resources
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.csproj.GenerateResource.cache
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.csproj.CoreCompileInputs.cache
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.csproj.CopyComplete
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.exe
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\rabota2.pdb
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\Vidi.g.cs
+C:\Users\maxwo\Desktop\rabota2\rabota2\obj\Debug\Vidi.baml
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\rabota2.exe.config
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\rabota2.exe
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\rabota2.pdb
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\EntityFramework.dll
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\EntityFramework.xml
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\bin\Debug\ru\EntityFramework.resources.dll
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.csproj.AssemblyReference.cache
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\MainWindow.g.cs
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\Vidi.g.cs
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\App.g.cs
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2_Content.g.cs
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2_MarkupCompile.cache
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2_MarkupCompile.lref
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\MainWindow.baml
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\Vidi.baml
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.g.resources
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.Properties.Resources.resources
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.csproj.GenerateResource.cache
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.csproj.CoreCompileInputs.cache
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.csproj.CopyComplete
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.exe
+D:\разработка программных модулей\Бахрах\rabota2\rabota2\obj\Debug\rabota2.pdb
